@@ -1,0 +1,20 @@
+{
+    "Figures": [
+        {"type": "rectangle", "x": 0, "y": 0, "width": 800, "height": 100, "color": "#c2b280"},
+        {"type": "point", "x": 200, "y": 380,  "color": "#ffffff"},
+        {"type": "point", "x": 240, "y": 482,  "color": "#ffffff"},
+        {"type": "point", "x": 273, "y": 436,  "color": "#ffffff"},
+        {"type": "point", "x": 364, "y": 534,  "color": "#ffffff"},
+        {"type": "point", "x": 453, "y": 456,  "color": "#ffffff"},
+        {"type": "point", "x": 589, "y": 334,  "color": "#ffffff"},
+        {"type": "point", "x": 602, "y": 554,  "color": "#ffffff"},
+        {"type": "point", "x": 702, "y": 454,  "color": "#ffffff"},
+        {"type": "circle", "x": 400, "y": 280, "radius": 40, "color": "#F38235"},
+        {"type": "circle", "x": 100, "y": 500, "radius": 40, "color": "#ffffff"},
+        {"type": "circle", "x": 80, "y": 500, "radius": 40, "color": "#000000"},
+        {"type": "rectangle", "x": 0, "y": 100, "width": 800, "height": 200, "color": "#006994"}
+
+    ],
+    "Screen": {"width": 800, "height": 600, "bg_color": "black", "fg_color": "red"},
+    "Palette": {"red": "#ff0000", "blue": "#0000ff", "black": "#000000"}
+}
